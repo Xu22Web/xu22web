@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=41b883&fontColor=ffffff&height=300&&section=header&text=Welcome&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Xu22Web&descAlign=50&descSize=30&descAlignY=60)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=41b883&fontColor=ffffff&height=300&&section=header&text=Hi&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Xu22Web&descAlign=50&descSize=30&descAlignY=60)
 
 ### About Me
 
@@ -10,7 +10,8 @@
 
 - 🌱 I work hard to improve my skills by self-study and reading docs.
 
-![GitHub](https://img.shields.io/badge/GitHub-xu22web-blue?logo=github)
+[![GitHub](https://img.shields.io/badge/GitHub-xu22web-blue?logo=github)](https://github.com/xu22web)
+[![Gitee](https://img.shields.io/badge/Gitee-xu22web-blue?logo=gitee)](https://gitee.com/xu22web)
 ![npm](https://img.shields.io/badge/npm-xu22web-blue?logo=npm)
 ![views](https://komarev.com/ghpvc/?username=xu22web&abbreviated=true&color=yellow)
 
@@ -39,7 +40,7 @@
 
 ### My Github Stats
 
-![](https://github-readme-stats.vercel.app/api?username=xu22web&line_height=33&show_icons=true&theme=vue&rank_icon=github)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=xu22web&line_height=33&show_icons=true&theme=vue&rank_icon=github)
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xu22web&hide_border=true&layout=donut&langs_count=6&theme=vue)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xu22web&theme=vue&hide_border=true&area=true&bg_color=ffffff&point=41b883)
@@ -50,4 +51,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xu22web/xu22web/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Footer](https://capsule-render.vercel.app/api?type=transparent&color=ffffff&fontColor=41b883&height=300&&section=footer&text=The%20End&fontSize=90&fontAlign=50&fontAlignY=70&desc=Done!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=transparent&color=ffffff&fontColor=41b883&height=300&&section=footer&text=The%20End&fontSize=90&fontAlign=50&fontAlignY=70&desc=Done!&descAlign=50&descSize=30&descAlignY=40&animation=fadeIn)
