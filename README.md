@@ -19,13 +19,13 @@
 
 - Following are my main skills I have learned and used.
 
-- 💻 Languages: `JavaScript`, `TypeScript`, `HTML`, `CSS`, `Vue.js`, `Node.js`
+- 💻 Languages: `JavaScript`, `TypeScript`, `HTML`, `CSS`, `Sass`, `Less`
 
-- 🛠 Frameworks: `Vue.js`, `Express.js`, `Koa.js`, `UniApp`, `WeChat Mini Program`
+- 🛠 Frameworks: `Vue.js`, `UniApp`, `WeChat MiniProgram`, `Express.js`, `Koa.js`
 
-- 🔧 Tools: `Git`, `SVN`, `VSCode`, `Vite`, `Webpack`, `Rollup`, `Docker`, `Linux`, `MySQL`, `Redis`, `Nginx`
+- 🔧 Tools: `Git`, `SVN`, `Vite`, `Webpack`, `Rollup`, `Docker`, `MySQL`, `Redis`, `Nginx`
 
-- 📚 Libraries: `Vuex/Pinia`, `Vue-Router`, `Axios`, `Echarts`, `Ant Design`, `Element Plus`, `Tailwind CSS`, `Sass`, `Less`, `Amap`
+- 📚 Libraries: `Vuex/Pinia`, `Vue-Router`, `Axios`, `Echarts`, `Ant Design`, `Element Plus`, `TailwindCSS/UnoCSS`, `Amap`
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
